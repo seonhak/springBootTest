@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.seonahak.sample.rest.model.Car;
-import com.seonahak.sample.serivce.CarService;
+import com.seonahak.sample.rest.serivce.CarService;
 
 @RestController
 @RequestMapping("/cars")

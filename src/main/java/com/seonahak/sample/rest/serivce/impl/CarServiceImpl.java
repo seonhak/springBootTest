@@ -1,4 +1,4 @@
-package com.seonahak.sample.serivce.impl;
+package com.seonahak.sample.rest.serivce.impl;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.seonahak.sample.rest.dao.CarDao;
 import com.seonahak.sample.rest.model.Car;
-import com.seonahak.sample.serivce.CarService;
+import com.seonahak.sample.rest.serivce.CarService;
 
 @Service
 public class CarServiceImpl implements CarService {

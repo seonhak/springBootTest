@@ -1,4 +1,4 @@
-package com.seonahak.sample.serivce;
+package com.seonahak.sample.rest.serivce;
 
 import java.util.List;
 
